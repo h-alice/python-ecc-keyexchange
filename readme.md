@@ -29,3 +29,7 @@ This script leverages Elliptic Curve Cryptography (ECC) for key exchange and Adv
     ```bash
     python client.py
     ```
+
+## Note
+The procedure is designed for [Telepy](https://github.com/NatLee/telepy).   
+If you want to use it in your own project, you may modify the script to fit your needs.
